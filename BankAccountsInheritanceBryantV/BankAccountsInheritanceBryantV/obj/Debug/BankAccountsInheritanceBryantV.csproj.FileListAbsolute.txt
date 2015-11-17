@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2013\Projects\BankAccountsInheritanceBryantV\BankAccountsInheritanceBryantV\bin\Debug\BankAccountsInheritanceBryantV.exe.config
+c:\users\student\documents\visual studio 2013\Projects\BankAccountsInheritanceBryantV\BankAccountsInheritanceBryantV\obj\Debug\BankAccountsInheritanceBryantV.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\BankAccountsInheritanceBryantV\BankAccountsInheritanceBryantV\bin\Debug\BankAccountsInheritanceBryantV.exe
+c:\users\student\documents\visual studio 2013\Projects\BankAccountsInheritanceBryantV\BankAccountsInheritanceBryantV\bin\Debug\BankAccountsInheritanceBryantV.pdb
+c:\users\student\documents\visual studio 2013\Projects\BankAccountsInheritanceBryantV\BankAccountsInheritanceBryantV\obj\Debug\BankAccountsInheritanceBryantV.exe
+c:\users\student\documents\visual studio 2013\Projects\BankAccountsInheritanceBryantV\BankAccountsInheritanceBryantV\obj\Debug\BankAccountsInheritanceBryantV.pdb
