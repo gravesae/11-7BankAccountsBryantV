@@ -4,3 +4,6 @@ c:\users\student\documents\visual studio 2013\Projects\BankAccountsInheritanceBr
 c:\users\student\documents\visual studio 2013\Projects\BankAccountsInheritanceBryantV\BankAccountsInheritanceBryantV\bin\Debug\BankAccountsInheritanceBryantV.pdb
 c:\users\student\documents\visual studio 2013\Projects\BankAccountsInheritanceBryantV\BankAccountsInheritanceBryantV\obj\Debug\BankAccountsInheritanceBryantV.exe
 c:\users\student\documents\visual studio 2013\Projects\BankAccountsInheritanceBryantV\BankAccountsInheritanceBryantV\obj\Debug\BankAccountsInheritanceBryantV.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Bryant\11-7BankAccountsBryantV\BankAccountsInheritanceBryantV\BankAccountsInheritanceBryantV\bin\Debug\BankAccountsInheritanceBryantV.exe.config
+C:\Users\April\Documents\SSC\COP2360\Repositories\Bryant\11-7BankAccountsBryantV\BankAccountsInheritanceBryantV\BankAccountsInheritanceBryantV\obj\Debug\BankAccountsInheritanceBryantV.exe
+C:\Users\April\Documents\SSC\COP2360\Repositories\Bryant\11-7BankAccountsBryantV\BankAccountsInheritanceBryantV\BankAccountsInheritanceBryantV\obj\Debug\BankAccountsInheritanceBryantV.pdb

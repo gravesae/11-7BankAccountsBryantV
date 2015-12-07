@@ -4,6 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//Grade: 9.8
+//Observations:
+//The requirements state that the Account base class should validate the intial balance is > 0.  Your program validates that the property setting is always > 0.
+//This would cause the following bugs in your program:
+//1. The initial balance could be set to a negative value because your constructor is setting the private instance variable.
+//2. The balance could never be set to a negative account balance even though a balance can be negative.
+//Your Debit method does not validate that the amount being withdrawn does not exceed the account balance.  You are checking that in a Withdrawl property, but this property is not useful
+//as the amount withdrawn is passed as an argument to the debit method.
+//The accountbalance property should be read only (there should be a get method but no set method)
+//In your CalculateAnnualInterest method you are applying a credit, this would be a major bug because any time the program attempted to calculate interest, the account would be credited.
+//What if there was a user interface just displaying the amount of interest, every time it used this method to calculate, the accountholder would get a credit! 
 namespace LibraryFinancialAccount
 {
     public class AccountMonetary
